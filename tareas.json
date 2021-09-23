@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Hacer el desafio 1",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Hacer un acróstico",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "Hacer un diagrama de flujo",
+        "estado": "pendiente"
+    }
+]
